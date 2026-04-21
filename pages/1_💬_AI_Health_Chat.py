@@ -328,10 +328,12 @@ if not st.session_state.messages:
     }
     st.session_state.messages.append({"role": "assistant", "content": welcomes.get(lang, welcomes["en"])})
 
-# --- Display Messages ---
-for msg in st.session_state.messages:
-    with st.chat_message(msg["role"]):
-        st.markdown(msg["content"])
+# --- Display Messages Container ---
+messages_container = st.container()
+with messages_container:
+    for msg in st.session_state.messages:
+        with st.chat_message(msg["role"]):
+            st.markdown(msg["content"])
 
 # --- Chat Input / Audio Input ---
 if not is_api_configured():
@@ -371,16 +373,19 @@ else:
 
     if final_input:
         st.session_state.messages.append({"role": "user", "content": final_input})
-        with st.chat_message("user"):
-            st.markdown(final_input)
-            
-        with st.chat_message("assistant"):
-            with st.spinner("Analyzing securely..."):
-                response = process_message(final_input)
-            st.markdown(response)
-            # Call TTS Playback
-            play_tts(response, lang)
-            
+        
+        # Route new messages directly into the container so the chat bar stays at the bottom
+        with messages_container:
+            with st.chat_message("user"):
+                st.markdown(final_input)
+                
+            with st.chat_message("assistant"):
+                with st.spinner("Analyzing securely..."):
+                    response = process_message(final_input)
+                st.markdown(response)
+                # Call TTS Playback
+                play_tts(response, lang)
+                
         st.session_state.messages.append({"role": "assistant", "content": response})
 
 # --- Bottom Disclaimer ---
