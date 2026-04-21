@@ -21,7 +21,7 @@ st.markdown("""
     @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap');
     * { font-family: 'Inter', sans-serif; }
     .stApp { background: linear-gradient(135deg, #0a0f1c 0%, #111827 50%, #0d1321 100%); }
-    #MainMenu, header, footer { visibility: hidden; }
+    #MainMenu, footer { visibility: hidden; }
     .stDeployButton { display: none; }
     
     [data-testid="stSidebar"] {
