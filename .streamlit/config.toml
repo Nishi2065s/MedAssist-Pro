@@ -1,0 +1,20 @@
+[global]
+developmentMode = false
+
+[server]
+headless = true
+runOnSave = true
+maxUploadSize = 10
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+primaryColor = "#6366f1"
+backgroundColor = "#030712"
+secondaryBackgroundColor = "#0f172a"
+textColor = "#e2e8f0"
+font = "sans serif"
+
+[runner]
+fastReruns = true

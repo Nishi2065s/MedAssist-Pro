@@ -1,0 +1,69 @@
+{
+  "daily_tips": [
+    {"tip": "Drink at least 8 glasses of water daily to stay hydrated and support organ function.", "category": "Hydration", "icon": "💧"},
+    {"tip": "Walk for at least 30 minutes daily. It reduces risk of heart disease, diabetes, and depression.", "category": "Exercise", "icon": "🚶"},
+    {"tip": "Include seasonal fruits and vegetables in your diet for natural vitamins and minerals.", "category": "Nutrition", "icon": "🍎"},
+    {"tip": "Practice deep breathing for 5 minutes every morning to reduce stress and improve focus.", "category": "Mental Health", "icon": "🧘"},
+    {"tip": "Wash your hands with soap for at least 20 seconds before eating and after using the restroom.", "category": "Hygiene", "icon": "🧼"},
+    {"tip": "Limit screen time before bed. Blue light disrupts your sleep cycle.", "category": "Sleep", "icon": "📱"},
+    {"tip": "Schedule annual health checkups including blood sugar, cholesterol, and blood pressure.", "category": "Preventive Care", "icon": "🩺"},
+    {"tip": "Cook in iron kadhai/vessels to naturally increase iron intake — especially important for women.", "category": "Nutrition", "icon": "🍳"},
+    {"tip": "Apply sunscreen (SPF 30+) before going outdoors, even on cloudy days.", "category": "Skin Care", "icon": "☀️"},
+    {"tip": "Eat curd (yogurt) daily for probiotics that support gut health and immunity.", "category": "Nutrition", "icon": "🥛"},
+    {"tip": "Do not self-medicate with antibiotics. Antibiotic resistance is a growing crisis in India.", "category": "Safety", "icon": "💊"},
+    {"tip": "Keep your vaccination schedule up to date — for yourself and your children.", "category": "Prevention", "icon": "💉"},
+    {"tip": "During monsoon season, ensure no stagnant water around your home to prevent dengue.", "category": "Seasonal", "icon": "🦟"},
+    {"tip": "Turmeric milk (haldi doodh) before bed boosts immunity and has anti-inflammatory properties.", "category": "Ayurveda", "icon": "🥛"},
+    {"tip": "Mental health is health. Don't hesitate to speak to a counselor. Call iCall: 08046110007.", "category": "Mental Health", "icon": "🧠"},
+    {"tip": "Avoid drinking water from unknown sources. Always carry your own filtered/boiled water.", "category": "Safety", "icon": "🚰"},
+    {"tip": "Chew your food slowly — it improves digestion and helps you eat less.", "category": "Digestion", "icon": "🍽️"},
+    {"tip": "Practice Surya Namaskar (Sun Salutation) — it's a complete body workout in just 12 poses.", "category": "Yoga", "icon": "🧘‍♂️"},
+    {"tip": "If you smoke, seek help to quit. India offers free quit-line: 1800-11-2356.", "category": "Wellness", "icon": "🚭"},
+    {"tip": "Soak almonds overnight and eat them in the morning for brain health and energy.", "category": "Nutrition", "icon": "🥜"}
+  ],
+  "seasonal_alerts": {
+    "Summer (March-June)": [
+      "🌡️ Heat stroke risk is high. Stay indoors during 12-4 PM",
+      "💧 Increase water intake to 3-4 liters/day",
+      "🍋 Drink ORS, lemon water, or aam panna to prevent dehydration",
+      "🧴 Apply sunscreen and carry an umbrella when going out"
+    ],
+    "Monsoon (July-September)": [
+      "🦟 Peak season for Dengue, Malaria, and Chikungunya",
+      "🚰 Drink only boiled or filtered water",
+      "🦠 Avoid street food to prevent Typhoid and food poisoning",
+      "🏠 Remove stagnant water from coolers, pots, and tires"
+    ],
+    "Winter (October-February)": [
+      "🤧 Common cold and flu season — wash hands frequently",
+      "💨 Air pollution peaks — use N95 masks in Delhi NCR",
+      "🫁 Asthma patients should keep inhalers handy",
+      "🧣 Keep extremities warm to prevent hypothermia in North India"
+    ]
+  },
+  "india_health_stats": {
+    "life_expectancy": "70.19 years (2024)",
+    "infant_mortality": "26.6 per 1000 live births",
+    "top_causes_of_death": [
+      "Heart Disease (28.1%)",
+      "Chronic Respiratory Disease (10.9%)",
+      "Stroke (7.1%)",
+      "Tuberculosis (5.2%)",
+      "Diabetes (3.3%)"
+    ],
+    "disease_burden": {
+      "Diabetes": "101 million affected",
+      "Hypertension": "315 million affected",
+      "TB": "2.7 million new cases/year",
+      "Depression": "56 million affected",
+      "Dengue": "~100,000 cases/year"
+    },
+    "healthcare_infrastructure": {
+      "Government Hospitals": "25,778",
+      "Primary Health Centres": "30,813",
+      "Community Health Centres": "6,064",
+      "Doctors per 1000 people": "0.7",
+      "Hospital beds per 1000": "0.5"
+    }
+  }
+}

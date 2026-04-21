@@ -1,0 +1,144 @@
+City,State,Emergency_Phone,Hospital_Name,Type,Ambulance,Police,Fire
+Chennai,Tamil Nadu,044-25305000,Rajiv Gandhi Government General Hospital,Government,108,100,101
+Madurai,Tamil Nadu,0452-2532535,Government Rajaji Hospital,Government,108,100,101
+Coimbatore,Tamil Nadu,0422-2301393,Coimbatore Medical College Hospital,Government,108,100,101
+Tiruchirappalli,Tamil Nadu,0431-2415053,Mahatma Gandhi Memorial GH,Government,108,100,101
+Salem,Tamil Nadu,0427-2215955,Government Mohan Kumaramangalam MCH,Government,108,100,101
+Tirunelveli,Tamil Nadu,0462-2572768,Tirunelveli Medical College Hospital,Government,108,100,101
+Erode,Tamil Nadu,0424-2225590,Government Erode Medical College,Government,108,100,101
+Vellore,Tamil Nadu,0416-2232102,Government Vellore Medical College,Government,108,100,101
+Thanjavur,Tamil Nadu,04362-231901,Thanjavur Medical College Hospital,Government,108,100,101
+Dindigul,Tamil Nadu,0451-2420034,Government Hospital Dindigul,Government,108,100,101
+Kancheepuram,Tamil Nadu,044-27222255,Government Hospital Kancheepuram,Government,108,100,101
+Cuddalore,Tamil Nadu,04142-238444,Government Hospital Cuddalore,Government,108,100,101
+Tiruvannamalai,Tamil Nadu,04175-222145,Government Hospital Tiruvannamalai,Government,108,100,101
+Nagapattinam,Tamil Nadu,04365-248050,Government Hospital Nagapattinam,Government,108,100,101
+Villupuram,Tamil Nadu,04146-222345,Government Hospital Villupuram,Government,108,100,101
+Thoothukudi,Tamil Nadu,0461-2320700,Government Hospital Thoothukudi,Government,108,100,101
+Karur,Tamil Nadu,04324-262233,Government Hospital Karur,Government,108,100,101
+Namakkal,Tamil Nadu,04286-282233,Government Hospital Namakkal,Government,108,100,101
+Sivaganga,Tamil Nadu,04575-241431,Government Hospital Sivaganga,Government,108,100,101
+Pudukkottai,Tamil Nadu,04322-220253,Government Hospital Pudukkottai,Government,108,100,101
+Ramanathapuram,Tamil Nadu,04567-224455,Government Hospital Ramanathapuram,Government,108,100,101
+Virudhunagar,Tamil Nadu,04562-262345,Government Hospital Virudhunagar,Government,108,100,101
+Theni,Tamil Nadu,04546-252345,Government Hospital Theni,Government,108,100,101
+Krishnagiri,Tamil Nadu,04343-232444,Government Hospital Krishnagiri,Government,108,100,101
+Dharmapuri,Tamil Nadu,04342-264355,Government Hospital Dharmapuri,Government,108,100,101
+Perambalur,Tamil Nadu,04328-222345,Government Hospital Perambalur,Government,108,100,101
+Ariyalur,Tamil Nadu,04329-222255,Government Hospital Ariyalur,Government,108,100,101
+Tiruppur,Tamil Nadu,0421-2201456,Government Hospital Tiruppur,Government,108,100,101
+Nilgiris,Tamil Nadu,0423-2444233,Government Hospital Ooty,Government,108,100,101
+Tenkasi,Tamil Nadu,04633-271233,Government Hospital Tenkasi,Government,108,100,101
+Kallakurichi,Tamil Nadu,04151-222277,Government Hospital Kallakurichi,Government,108,100,101
+Ranipet,Tamil Nadu,04172-222188,Government Hospital Ranipet,Government,108,100,101
+Tirupattur,Tamil Nadu,04179-222166,Government Hospital Tirupattur,Government,108,100,101
+Chengalpattu,Tamil Nadu,044-27422233,Government Hospital Chengalpattu,Government,108,100,101
+Mayiladuthurai,Tamil Nadu,04364-222555,Government Hospital Mayiladuthurai,Government,108,100,101
+Nagercoil,Tamil Nadu,04652-232323,Government Hospital Nagercoil,Government,108,100,101
+Hosur,Tamil Nadu,04344-232500,Government Hospital Hosur,Government,108,100,101
+Kumbakonam,Tamil Nadu,0435-2400567,Government Hospital Kumbakonam,Government,108,100,101
+Bangalore,Karnataka,080-26661460,Victoria Hospital,Government,108,100,101
+Mysore,Karnataka,0821-2520512,K.R. Hospital,Government,108,100,101
+Hubli,Karnataka,0836-2262154,KIMS Hubli,Government,108,100,101
+Mangalore,Karnataka,0824-2423000,Government Wenlock Hospital,Government,108,100,101
+Belgaum,Karnataka,0831-2470627,BIMS Belgaum,Government,108,100,101
+Shimoga,Karnataka,08182-271310,McGann District Hospital,Government,108,100,101
+Davangere,Karnataka,08192-252270,Chigateri District Hospital,Government,108,100,101
+Bellary,Karnataka,08392-257700,VIMS Bellary,Government,108,100,101
+Gulbarga,Karnataka,08472-226700,Gulbarga District Hospital,Government,108,100,101
+Bidar,Karnataka,08482-226500,Bidar District Hospital,Government,108,100,101
+Raichur,Karnataka,08532-226300,Raichur District Hospital,Government,108,100,101
+Udupi,Karnataka,0820-2574100,TMA Pai Hospital,Government,108,100,101
+Hassan,Karnataka,08172-262300,Hassan District Hospital,Government,108,100,101
+Mandya,Karnataka,08232-222345,Mandya District Hospital,Government,108,100,101
+Tumkur,Karnataka,0816-2278990,Tumkur District Hospital,Government,108,100,101
+Chitradurga,Karnataka,08194-222345,Chitradurga District Hospital,Government,108,100,101
+Kolar,Karnataka,08152-222444,Kolar District Hospital,Government,108,100,101
+Gadag,Karnataka,08372-235456,Gadag District Hospital,Government,108,100,101
+Haveri,Karnataka,08375-233456,Haveri District Hospital,Government,108,100,101
+Dharwad,Karnataka,0836-2447654,SDM Medical College Hospital,Government,108,100,101
+Kodagu,Karnataka,08272-228500,Kodagu District Hospital,Government,108,100,101
+Chamarajanagar,Karnataka,08226-222345,Chamarajanagar District Hospital,Government,108,100,101
+Chikmagalur,Karnataka,08262-230456,Chikmagalur District Hospital,Government,108,100,101
+Bagalkot,Karnataka,08354-235678,Bagalkot District Hospital,Government,108,100,101
+Koppal,Karnataka,08539-220345,Koppal District Hospital,Government,108,100,101
+Yadgir,Karnataka,08473-253456,Yadgir District Hospital,Government,108,100,101
+Vijayapura,Karnataka,08352-250456,Vijayapura District Hospital,Government,108,100,101
+Hyderabad,Telangana,040-24600146,Osmania General Hospital,Government,108,100,101
+Warangal,Telangana,0870-2461955,MGM Hospital Warangal,Government,108,100,101
+Karimnagar,Telangana,0878-2235500,Government Hospital Karimnagar,Government,108,100,101
+Nizamabad,Telangana,08462-238100,Government Hospital Nizamabad,Government,108,100,101
+Khammam,Telangana,08742-258600,Government Hospital Khammam,Government,108,100,101
+Nalgonda,Telangana,08682-244500,Government Hospital Nalgonda,Government,108,100,101
+Adilabad,Telangana,08732-226800,RIMS Adilabad,Government,108,100,101
+Mahbubnagar,Telangana,08542-243200,Government Hospital Mahbubnagar,Government,108,100,101
+Medak,Telangana,08455-222345,Government Hospital Medak,Government,108,100,101
+Rangareddy,Telangana,040-24015555,Government Hospital Rangareddy,Government,108,100,101
+Siddipet,Telangana,08457-222300,Government Hospital Siddipet,Government,108,100,101
+Suryapet,Telangana,08684-228500,Government Hospital Suryapet,Government,108,100,101
+Mahabubnagar,Telangana,08542-243200,Government Hospital Mahabubnagar,Government,108,100,101
+Jagitial,Telangana,08724-222345,Government Hospital Jagitial,Government,108,100,101
+Mancherial,Telangana,08736-222456,Government Hospital Mancherial,Government,108,100,101
+Peddapalli,Telangana,08728-222567,Government Hospital Peddapalli,Government,108,100,101
+Bhadradri,Telangana,08744-222678,Government Hospital Kothagudem,Government,108,100,101
+Kamareddy,Telangana,08468-222789,Government Hospital Kamareddy,Government,108,100,101
+Sangareddy,Telangana,08455-272345,Government Hospital Sangareddy,Government,108,100,101
+Vikarabad,Telangana,08415-222890,Government Hospital Vikarabad,Government,108,100,101
+Wanaparthy,Telangana,08546-222456,Government Hospital Wanaparthy,Government,108,100,101
+Nagarkurnool,Telangana,08540-222567,Government Hospital Nagarkurnool,Government,108,100,101
+Jangaon,Telangana,08689-222678,Government Hospital Jangaon,Government,108,100,101
+Jayashankar,Telangana,08729-222789,Government Hospital Bhupalpally,Government,108,100,101
+Rajanna Sircilla,Telangana,08727-222890,Government Hospital Sircilla,Government,108,100,101
+Medchal,Telangana,040-27840345,Government Hospital Medchal,Government,108,100,101
+Yadadri,Telangana,08685-222456,Government Hospital Bhongir,Government,108,100,101
+Mulugu,Telangana,08733-222567,Government Hospital Mulugu,Government,108,100,101
+Narayanpet,Telangana,08500-222678,Government Hospital Narayanpet,Government,108,100,101
+Visakhapatnam,Andhra Pradesh,0891-2564891,King George Hospital,Government,108,100,101
+Vijayawada,Andhra Pradesh,0866-2474765,GGH Vijayawada,Government,108,100,101
+Guntur,Andhra Pradesh,0863-2234392,GGH Guntur,Government,108,100,101
+Tirupati,Andhra Pradesh,0877-2287777,SVIMS Tirupati,Government,108,100,101
+Nellore,Andhra Pradesh,0861-2314700,GGH Nellore,Government,108,100,101
+Rajahmundry,Andhra Pradesh,0883-2476911,GGH Rajahmundry,Government,108,100,101
+Kakinada,Andhra Pradesh,0884-2363300,GGH Kakinada,Government,108,100,101
+Kurnool,Andhra Pradesh,08518-220155,Kurnool Government Hospital,Government,108,100,101
+Anantapur,Andhra Pradesh,08554-272345,Government Hospital Anantapur,Government,108,100,101
+Kadapa,Andhra Pradesh,08562-252678,RIMS Kadapa,Government,108,100,101
+Eluru,Andhra Pradesh,08812-227345,Government Hospital Eluru,Government,108,100,101
+Ongole,Andhra Pradesh,08592-232456,RIMS Ongole,Government,108,100,101
+Srikakulam,Andhra Pradesh,08942-222300,RIMS Srikakulam,Government,108,100,101
+Vizianagaram,Andhra Pradesh,08922-225500,Government Hospital Vizianagaram,Government,108,100,101
+Chittoor,Andhra Pradesh,08572-230456,Government Hospital Chittoor,Government,108,100,101
+Machilipatnam,Andhra Pradesh,08672-222345,Government Hospital Machilipatnam,Government,108,100,101
+Proddatur,Andhra Pradesh,08564-240567,Government Hospital Proddatur,Government,108,100,101
+Hindupur,Andhra Pradesh,08556-222678,Government Hospital Hindupur,Government,108,100,101
+Adoni,Andhra Pradesh,08512-252789,Government Hospital Adoni,Government,108,100,101
+Nandyal,Andhra Pradesh,08514-222890,Government Hospital Nandyal,Government,108,100,101
+Tenali,Andhra Pradesh,0863-2332234,Government Hospital Tenali,Government,108,100,101
+Tadepalligudem,Andhra Pradesh,08818-222456,Government Hospital Tadepalligudem,Government,108,100,101
+Chirala,Andhra Pradesh,08594-220567,Government Hospital Chirala,Government,108,100,101
+Amalapuram,Andhra Pradesh,08856-232678,Government Hospital Amalapuram,Government,108,100,101
+Thiruvananthapuram,Kerala,0471-2528386,Government Medical College Hospital,Government,108,100,101
+Kochi,Kerala,0484-2351437,Government General Hospital Ernakulam,Government,108,100,101
+Kozhikode,Kerala,0495-2765070,Government Medical College Kozhikode,Government,108,100,101
+Thrissur,Kerala,0487-2200315,Government Medical College Thrissur,Government,108,100,101
+Kollam,Kerala,0474-2794030,Government District Hospital Kollam,Government,108,100,101
+Alappuzha,Kerala,0477-2251410,Government TD Medical College,Government,108,100,101
+Palakkad,Kerala,0491-2522358,Government District Hospital Palakkad,Government,108,100,101
+Kannur,Kerala,0497-2830510,Government Hospital Kannur,Government,108,100,101
+Malappuram,Kerala,0483-2734567,Government Hospital Malappuram,Government,108,100,101
+Kottayam,Kerala,0481-2597311,Government Medical College Kottayam,Government,108,100,101
+Kasaragod,Kerala,04994-220253,Government District Hospital Kasaragod,Government,108,100,101
+Pathanamthitta,Kerala,0468-2222345,Government District Hospital Pathanamthitta,Government,108,100,101
+Idukki,Kerala,04862-232236,Government District Hospital Thodupuzha,Government,108,100,101
+Wayanad,Kerala,04936-202340,Government District Hospital Kalpetta,Government,108,100,101
+Mumbai,Maharashtra,022-22621855,KEM Hospital,Government,108,100,101
+Delhi,Delhi,011-26588500,AIIMS Delhi,Government,108,100,101
+Kolkata,West Bengal,033-22041101,SSKM Hospital,Government,108,100,101
+Ahmedabad,Gujarat,079-22680279,VS Hospital,Government,108,100,101
+Pune,Maharashtra,020-26127394,Sassoon General Hospital,Government,108,100,101
+Lucknow,Uttar Pradesh,0522-2257540,KGMU Hospital,Government,108,100,101
+Jaipur,Rajasthan,0141-2518371,SMS Hospital,Government,108,100,101
+Bhopal,Madhya Pradesh,0755-2540222,Hamidia Hospital,Government,108,100,101
+Patna,Bihar,0612-2300343,PMCH Patna,Government,108,100,101
+Chandigarh,Chandigarh,0172-2665253,PGIMER Chandigarh,Government,108,100,101
+Goa,Goa,0832-2458727,Goa Medical College,Government,108,100,101

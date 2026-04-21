@@ -1,0 +1,112 @@
+{
+  "Paracetamol (Acetaminophen)": {
+    "brand_names": ["Crocin", "Dolo 650", "Calpol", "Tylenol"],
+    "generic_name": "Paracetamol",
+    "category": "Analgesic / Antipyretic",
+    "uses": ["Fever", "Headache", "Body aches", "Toothache", "Cold and flu"],
+    "dosage": "500-1000mg every 4-6 hours. Max 4000mg/day",
+    "side_effects": ["Rarely: liver damage at high doses", "Nausea", "Allergic reaction (rare)"],
+    "precautions": ["Avoid with alcohol", "Don't exceed recommended dose", "Caution in liver disease"],
+    "otc": true,
+    "price_range": "₹10-30 per strip"
+  },
+  "Ibuprofen": {
+    "brand_names": ["Brufen", "Ibugesic", "Advil"],
+    "generic_name": "Ibuprofen",
+    "category": "NSAID (Anti-inflammatory)",
+    "uses": ["Pain relief", "Inflammation", "Arthritis", "Menstrual cramps", "Headache", "Dental pain"],
+    "dosage": "200-400mg every 4-6 hours. Max 1200mg/day (OTC)",
+    "side_effects": ["Stomach irritation", "Nausea", "Dizziness", "Kidney issues (long-term)"],
+    "precautions": ["Take with food", "Avoid in kidney disease", "Not for dengue fever", "Avoid in pregnancy"],
+    "otc": true,
+    "price_range": "₹15-40 per strip"
+  },
+  "Cetirizine": {
+    "brand_names": ["Cetzine", "Okacet", "Zyrtec", "Alerid"],
+    "generic_name": "Cetirizine Hydrochloride",
+    "category": "Antihistamine",
+    "uses": ["Allergic rhinitis", "Hay fever", "Urticaria (hives)", "Itching", "Sneezing", "Watery eyes"],
+    "dosage": "10mg once daily (adults), 5mg for children 6-12",
+    "side_effects": ["Drowsiness", "Dry mouth", "Fatigue", "Headache"],
+    "precautions": ["May cause drowsiness — avoid driving", "Caution in kidney disease", "Avoid alcohol"],
+    "otc": true,
+    "price_range": "₹10-25 per strip"
+  },
+  "Omeprazole": {
+    "brand_names": ["Omez", "Ocid", "Prilosec"],
+    "generic_name": "Omeprazole",
+    "category": "Proton Pump Inhibitor (PPI)",
+    "uses": ["Acidity", "GERD", "Stomach ulcers", "Heartburn", "Acid reflux"],
+    "dosage": "20mg once daily before breakfast. Duration: 2-8 weeks",
+    "side_effects": ["Headache", "Nausea", "Diarrhea", "Vitamin B12 deficiency (long-term)"],
+    "precautions": ["Take 30 min before meals", "Long-term use may cause bone issues", "Consult doctor for >14 days use"],
+    "otc": true,
+    "price_range": "₹20-60 per strip"
+  },
+  "ORS (Oral Rehydration Salts)": {
+    "brand_names": ["Electral", "Enerzal", "Glucon-D ORS"],
+    "generic_name": "Oral Rehydration Salts",
+    "category": "Rehydration Therapy",
+    "uses": ["Dehydration", "Diarrhea", "Vomiting", "Heat exhaustion", "Fever-related dehydration"],
+    "dosage": "Dissolve 1 packet in 1 liter clean drinking water. Sip frequently",
+    "side_effects": ["Vomiting if consumed too fast", "Hypernatremia (rare, if overused)"],
+    "precautions": ["Use clean boiled water", "Discard after 24 hours", "Seek medical help if no improvement"],
+    "otc": true,
+    "price_range": "₹5-20 per packet"
+  },
+  "Azithromycin": {
+    "brand_names": ["Azithral", "Zithromax", "Azee"],
+    "generic_name": "Azithromycin",
+    "category": "Antibiotic (Macrolide)",
+    "uses": ["Respiratory infections", "Ear infections", "Skin infections", "Typhoid", "Sexually transmitted infections"],
+    "dosage": "500mg on day 1, then 250mg daily for 4 days. PRESCRIPTION ONLY",
+    "side_effects": ["Diarrhea", "Nausea", "Abdominal pain", "Headache"],
+    "precautions": ["NEVER self-medicate with antibiotics", "Complete the full course", "Take on empty stomach"],
+    "otc": false,
+    "price_range": "₹40-100 per strip"
+  },
+  "Metformin": {
+    "brand_names": ["Glycomet", "Glumet", "Carbophage"],
+    "generic_name": "Metformin Hydrochloride",
+    "category": "Anti-diabetic",
+    "uses": ["Type 2 Diabetes", "PCOS", "Pre-diabetes management"],
+    "dosage": "500-2000mg/day in divided doses. Start low, increase gradually. PRESCRIPTION ONLY",
+    "side_effects": ["GI upset", "Diarrhea", "Metallic taste", "Vitamin B12 deficiency", "Lactic acidosis (rare)"],
+    "precautions": ["Take with meals", "Monitor kidney function", "Avoid alcohol", "Stop before contrast dye procedures"],
+    "otc": false,
+    "price_range": "₹15-50 per strip"
+  },
+  "Amoxicillin": {
+    "brand_names": ["Novamox", "Mox", "Amoxil"],
+    "generic_name": "Amoxicillin",
+    "category": "Antibiotic (Penicillin)",
+    "uses": ["Upper respiratory infections", "UTI", "Ear infections", "H. pylori (with other drugs)", "Dental infections"],
+    "dosage": "250-500mg every 8 hours for 7-10 days. PRESCRIPTION ONLY",
+    "side_effects": ["Diarrhea", "Skin rash", "Nausea", "Allergic reaction"],
+    "precautions": ["Check for penicillin allergy", "Complete the full course", "Store properly"],
+    "otc": false,
+    "price_range": "₹20-60 per strip"
+  },
+  "Diclofenac": {
+    "brand_names": ["Voveran", "Voltaren", "Diclomol"],
+    "generic_name": "Diclofenac Sodium",
+    "category": "NSAID",
+    "uses": ["Joint pain", "Arthritis", "Back pain", "Sports injuries", "Post-surgical pain"],
+    "dosage": "50mg 2-3 times daily with food. Max 150mg/day",
+    "side_effects": ["Stomach ulcers", "Gastric bleeding", "Kidney issues", "Cardiovascular risk"],
+    "precautions": ["Always take with food", "Avoid long-term use", "Not for heart patients", "Avoid in dengue"],
+    "otc": true,
+    "price_range": "₹15-45 per strip"
+  },
+  "Loperamide": {
+    "brand_names": ["Imodium", "Lopamide", "Eldoper"],
+    "generic_name": "Loperamide",
+    "category": "Anti-diarrheal",
+    "uses": ["Acute diarrhea", "Traveler's diarrhea"],
+    "dosage": "4mg initially, then 2mg after each loose stool. Max 16mg/day",
+    "side_effects": ["Constipation", "Abdominal cramps", "Dizziness", "Nausea"],
+    "precautions": ["Don't use for bloody diarrhea", "Don't use for more than 2 days without doctor", "Rehydrate with ORS"],
+    "otc": true,
+    "price_range": "₹15-30 per strip"
+  }
+}

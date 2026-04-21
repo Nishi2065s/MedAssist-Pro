@@ -1,0 +1,182 @@
+{
+  "Common Cold": {
+    "symptoms": ["Runny nose", "Sneezing", "Sore throat", "Mild fever", "Cough", "Congestion", "Body aches"],
+    "causes": "Rhinovirus (most common), Coronavirus (non-COVID types), RSV",
+    "risk_factors": ["Weakened immunity", "Season change", "Close contact with infected person"],
+    "severity": "mild",
+    "home_remedies": ["Warm water with honey and lemon", "Steam inhalation", "Gargling with salt water", "Ginger tea", "Rest and hydration"],
+    "when_to_see_doctor": "If fever exceeds 103°F, symptoms last more than 10 days, or difficulty breathing",
+    "prevention": ["Hand washing", "Avoid touching face", "Adequate sleep", "Vitamin C intake"]
+  },
+  "Dengue Fever": {
+    "symptoms": ["High fever (104°F)", "Severe headache", "Pain behind eyes", "Joint pain", "Muscle pain", "Rash", "Nausea", "Fatigue"],
+    "causes": "Dengue virus transmitted by Aedes mosquito",
+    "risk_factors": ["Monsoon season", "Stagnant water near home", "Tropical climate", "Previous dengue infection"],
+    "severity": "urgent",
+    "home_remedies": ["Papaya leaf juice", "Coconut water", "ORS solution", "Complete bed rest", "Plenty of fluids"],
+    "when_to_see_doctor": "Immediately if platelet count drops, bleeding from gums/nose, severe stomach pain, or persistent vomiting",
+    "prevention": ["Mosquito nets", "Remove stagnant water", "Use mosquito repellent", "Wear full-sleeve clothes"]
+  },
+  "Malaria": {
+    "symptoms": ["Chills and fever", "Sweating", "Headache", "Nausea", "Vomiting", "Body aches", "Fatigue"],
+    "causes": "Plasmodium parasite transmitted by Anopheles mosquito",
+    "risk_factors": ["Rural areas", "Monsoon season", "Lack of mosquito protection", "Travel to endemic areas"],
+    "severity": "urgent",
+    "home_remedies": ["Stay hydrated", "Rest", "Light nutritious diet", "Herbal teas"],
+    "when_to_see_doctor": "Immediately upon suspecting malaria — blood test required for confirmation",
+    "prevention": ["Mosquito nets", "Indoor residual spraying", "Antimalarial prophylaxis", "Screen windows"]
+  },
+  "Typhoid": {
+    "symptoms": ["Sustained high fever", "Weakness", "Stomach pain", "Headache", "Loss of appetite", "Constipation or diarrhea", "Rash on chest"],
+    "causes": "Salmonella typhi bacteria from contaminated food/water",
+    "risk_factors": ["Contaminated water", "Street food", "Poor sanitation", "Lack of vaccination"],
+    "severity": "urgent",
+    "home_remedies": ["Boiled water only", "Light diet", "Apple cider vinegar", "Banana", "ORS"],
+    "when_to_see_doctor": "When fever persists beyond 3 days — antibiotics required",
+    "prevention": ["Drink boiled/filtered water", "Eat home-cooked food", "Typhoid vaccination", "Hand hygiene"]
+  },
+  "Diabetes (Type 2)": {
+    "symptoms": ["Frequent urination", "Increased thirst", "Unexplained weight loss", "Blurred vision", "Slow wound healing", "Fatigue", "Tingling in hands/feet"],
+    "causes": "Insulin resistance — body cannot use insulin effectively",
+    "risk_factors": ["Obesity", "Sedentary lifestyle", "Family history", "PCOS", "Age over 45"],
+    "severity": "moderate",
+    "home_remedies": ["Bitter gourd juice", "Fenugreek seeds soaked overnight", "Cinnamon tea", "Regular exercise", "Low-carb diet"],
+    "when_to_see_doctor": "If fasting blood sugar exceeds 126 mg/dL or HbA1c above 6.5%",
+    "prevention": ["Maintain healthy weight", "Exercise 30 min/day", "Reduce sugar intake", "Regular screening after 35"]
+  },
+  "Hypertension": {
+    "symptoms": ["Often asymptomatic", "Severe headache", "Fatigue", "Vision problems", "Chest pain", "Difficulty breathing", "Nosebleeds"],
+    "causes": "Primary (essential) hypertension — genetics + lifestyle. Secondary — kidney disease, hormonal disorders",
+    "risk_factors": ["Salt-heavy diet", "Obesity", "Smoking", "Alcohol", "Stress", "Family history", "Age"],
+    "severity": "moderate",
+    "home_remedies": ["DASH diet", "Reduce salt intake", "Regular walking", "Garlic", "Hibiscus tea", "Deep breathing"],
+    "when_to_see_doctor": "If BP consistently above 140/90 mmHg or symptoms like chest pain/vision issues",
+    "prevention": ["Low sodium diet", "Regular exercise", "Stress management", "Limit alcohol", "No smoking"]
+  },
+  "Gastritis": {
+    "symptoms": ["Upper stomach pain", "Nausea", "Bloating", "Indigestion", "Loss of appetite", "Vomiting", "Burping"],
+    "causes": "H. pylori infection, NSAIDs overuse, alcohol, stress",
+    "risk_factors": ["Spicy food", "Irregular meals", "Stress", "Smoking", "Excessive alcohol"],
+    "severity": "mild",
+    "home_remedies": ["Cold milk", "Coconut water", "Fennel seeds", "Banana", "Aloe vera juice", "Avoid spicy food"],
+    "when_to_see_doctor": "If blood in vomit, black stools, or symptoms persist over 2 weeks",
+    "prevention": ["Regular meals", "Avoid spicy/oily food", "Limit NSAIDs", "Manage stress", "Small frequent meals"]
+  },
+  "Asthma": {
+    "symptoms": ["Wheezing", "Shortness of breath", "Chest tightness", "Coughing (especially at night)", "Difficulty exercising"],
+    "causes": "Airway inflammation triggered by allergens, exercise, cold air, pollution",
+    "risk_factors": ["Family history", "Allergies", "Air pollution", "Smoking exposure", "Respiratory infections in childhood"],
+    "severity": "moderate",
+    "home_remedies": ["Steam inhalation with eucalyptus oil", "Ginger tea", "Turmeric milk", "Breathing exercises", "Avoid triggers"],
+    "when_to_see_doctor": "If inhaler needed more than 2 times/week, waking at night, or attacks worsening",
+    "prevention": ["Avoid allergens", "Air purifier", "Regular medication", "Flu vaccine", "Exercise gradually"]
+  },
+  "COVID-19": {
+    "symptoms": ["Fever", "Dry cough", "Fatigue", "Loss of taste/smell", "Sore throat", "Body aches", "Shortness of breath", "Headache"],
+    "causes": "SARS-CoV-2 virus — airborne and droplet transmission",
+    "risk_factors": ["Crowded places", "Elderly age", "Comorbidities (diabetes, heart disease)", "Immunocompromised"],
+    "severity": "urgent",
+    "home_remedies": ["Isolation", "Plenty of fluids", "Steam inhalation", "Paracetamol for fever", "Prone positioning", "Vitamin C & D"],
+    "when_to_see_doctor": "If oxygen levels drop below 94%, persistent chest pain, confusion, or difficulty breathing",
+    "prevention": ["Vaccination", "Mask wearing", "Hand hygiene", "Social distancing", "Ventilation"]
+  },
+  "Tuberculosis (TB)": {
+    "symptoms": ["Persistent cough (3+ weeks)", "Coughing blood", "Night sweats", "Weight loss", "Fever", "Fatigue", "Chest pain"],
+    "causes": "Mycobacterium tuberculosis — airborne transmission",
+    "risk_factors": ["Close contact with TB patient", "Immunocompromised", "Malnutrition", "Crowded living", "Smoking"],
+    "severity": "urgent",
+    "home_remedies": ["Nutritious diet", "Sunlight exposure", "Garlic", "Green tea", "Rest — BUT REQUIRE MEDICAL TREATMENT"],
+    "when_to_see_doctor": "Immediately — TB requires DOTS therapy (6-9 months antibiotics). Free treatment available at government hospitals",
+    "prevention": ["BCG vaccination", "Good ventilation", "Covering mouth while coughing", "TB screening if exposed"]
+  },
+  "Migraine": {
+    "symptoms": ["Throbbing headache (one side)", "Nausea", "Light sensitivity", "Sound sensitivity", "Aura (visual disturbances)", "Vomiting"],
+    "causes": "Neurological condition — exact cause unknown. Involves nerve pathways and brain chemicals",
+    "risk_factors": ["Family history", "Hormonal changes", "Stress", "Certain foods (cheese, chocolate)", "Irregular sleep"],
+    "severity": "moderate",
+    "home_remedies": ["Dark quiet room", "Cold compress on forehead", "Peppermint oil", "Ginger tea", "Adequate hydration"],
+    "when_to_see_doctor": "If migraines are frequent (>4/month), last >72 hours, or accompanied by fever/stiff neck",
+    "prevention": ["Regular sleep schedule", "Stress management", "Identify and avoid triggers", "Stay hydrated", "Regular exercise"]
+  },
+  "Urinary Tract Infection (UTI)": {
+    "symptoms": ["Burning during urination", "Frequent urination", "Cloudy urine", "Strong-smelling urine", "Pelvic pain", "Blood in urine"],
+    "causes": "E. coli bacteria — enters through urethra",
+    "risk_factors": ["Female gender", "Dehydration", "Poor hygiene", "Holding urine too long", "Diabetes"],
+    "severity": "moderate",
+    "home_remedies": ["Drink lots of water", "Cranberry juice", "Probiotics (curd)", "Vitamin C", "Avoid caffeine"],
+    "when_to_see_doctor": "If symptoms persist >2 days, blood in urine, fever, or back pain",
+    "prevention": ["Stay hydrated (8+ glasses/day)", "Urinate after intercourse", "Front-to-back wiping", "Cotton underwear"]
+  },
+  "Chickenpox": {
+    "symptoms": ["Itchy rash (blisters)", "Fever", "Fatigue", "Loss of appetite", "Headache", "Body aches"],
+    "causes": "Varicella-Zoster Virus (VZV) — highly contagious",
+    "risk_factors": ["No vaccination", "Children under 12", "Close contact with infected person", "Weak immunity"],
+    "severity": "moderate",
+    "home_remedies": ["Calamine lotion", "Oatmeal baths", "Neem leaves in bath water", "Keep nails short", "Cool compresses"],
+    "when_to_see_doctor": "If rash near eyes, high fever (>102°F), confusion, stiff neck, or immunocompromised",
+    "prevention": ["Varicella vaccine", "Avoid contact with infected persons", "Good hygiene"]
+  },
+  "Anemia": {
+    "symptoms": ["Fatigue", "Weakness", "Pale skin", "Shortness of breath", "Dizziness", "Cold hands/feet", "Brittle nails", "Headache"],
+    "causes": "Iron deficiency (most common in India), Vitamin B12 deficiency, chronic disease",
+    "risk_factors": ["Vegetarian diet", "Menstruation", "Pregnancy", "Chronic disease", "Poor nutrition"],
+    "severity": "moderate",
+    "home_remedies": ["Iron-rich foods (spinach, jaggery, dates)", "Beetroot juice", "Pomegranate", "Vitamin C with meals", "Cook in iron vessels"],
+    "when_to_see_doctor": "If Hb below 8 g/dL, extreme fatigue, or rapid heartbeat",
+    "prevention": ["Iron-rich diet", "Vitamin C to aid absorption", "Regular health checkups", "Iron supplementation during pregnancy"]
+  },
+  "Conjunctivitis (Pink Eye)": {
+    "symptoms": ["Eye redness", "Itching", "Watery eyes", "Discharge (yellow/green)", "Crusty eyelids", "Sensitivity to light"],
+    "causes": "Viral (most common), bacterial, or allergic",
+    "risk_factors": ["Contact with infected person", "Touching eyes with dirty hands", "Swimming pools", "Allergies"],
+    "severity": "mild",
+    "home_remedies": ["Warm compress", "Rose water", "Clean with boiled water", "Avoid touching eyes", "Cold milk compress"],
+    "when_to_see_doctor": "If vision affected, pain, or symptoms last >1 week",
+    "prevention": ["Hand hygiene", "Don't share towels", "Avoid rubbing eyes", "Clean contact lenses properly"]
+  },
+  "Kidney Stones": {
+    "symptoms": ["Severe flank pain", "Blood in urine", "Nausea", "Vomiting", "Painful urination", "Frequent urination", "Fever with chills"],
+    "causes": "Calcium oxalate crystals (most common), uric acid, dehydration",
+    "risk_factors": ["Dehydration", "High-sodium diet", "Obesity", "Family history", "Hot climate (common in Rajasthan, UP)"],
+    "severity": "urgent",
+    "home_remedies": ["Drink 3-4 liters water/day", "Lemon juice", "Apple cider vinegar", "Barley water", "Reduce salt"],
+    "when_to_see_doctor": "If severe pain, fever, blood in urine, or unable to pass urine",
+    "prevention": ["Stay very well hydrated", "Limit salt and animal protein", "Eat calcium-rich foods", "Avoid excess oxalate (spinach, tea)"]
+  },
+  "Jaundice": {
+    "symptoms": ["Yellowing of skin and eyes", "Dark urine", "Pale stools", "Fatigue", "Abdominal pain", "Loss of appetite", "Fever"],
+    "causes": "Hepatitis (A, B, C, E), liver disease, bile duct obstruction",
+    "risk_factors": ["Contaminated water", "Alcohol abuse", "Hepatitis exposure", "Gallstones"],
+    "severity": "urgent",
+    "home_remedies": ["Sugarcane juice", "Radish juice", "Lemon water", "Barley water", "Light diet — avoid oily food"],
+    "when_to_see_doctor": "Immediately — requires liver function tests and proper medical treatment",
+    "prevention": ["Hepatitis A & B vaccination", "Clean drinking water", "Avoid raw food from unhygienic sources", "Limit alcohol"]
+  },
+  "Scabies": {
+    "symptoms": ["Intense itching (worse at night)", "Rash with tiny blisters", "Sores from scratching", "Thin irregular burrow tracks"],
+    "causes": "Sarcoptes scabiei mite — spreads through skin-to-skin contact",
+    "risk_factors": ["Crowded living conditions", "Sharing clothes/bedding", "Poor hygiene", "Schools and hostels"],
+    "severity": "mild",
+    "home_remedies": ["Neem oil application", "Turmeric paste", "Tea tree oil", "Wash all clothes in hot water", "Keep nails short"],
+    "when_to_see_doctor": "When itching is severe or secondary infection develops — prescription cream (Permethrin) needed",
+    "prevention": ["Avoid sharing clothes/towels", "Wash bedding regularly", "Treat all household contacts", "Personal hygiene"]
+  },
+  "Heat Stroke": {
+    "symptoms": ["Very high body temperature (>104°F)", "Confusion", "Hot dry skin", "Rapid heartbeat", "Headache", "Nausea", "Loss of consciousness"],
+    "causes": "Prolonged exposure to high temperatures — body's cooling mechanism fails",
+    "risk_factors": ["Working outdoors in summer", "Dehydration", "Elderly", "Children", "Heavy physical activity in heat"],
+    "severity": "emergency",
+    "home_remedies": ["Move to shade immediately", "Cool body with wet cloth", "Fan the person", "Ice packs on neck/armpits", "ORS/water"],
+    "when_to_see_doctor": "IMMEDIATELY — heat stroke is a medical emergency. Call 108",
+    "prevention": ["Stay hydrated", "Avoid peak sun hours (12-4 PM)", "Wear light clothes", "ORS during summer", "Aam Panna/lemon water"]
+  },
+  "Depression": {
+    "symptoms": ["Persistent sadness", "Loss of interest", "Fatigue", "Sleep changes", "Appetite changes", "Difficulty concentrating", "Feelings of worthlessness", "Suicidal thoughts"],
+    "causes": "Complex — brain chemistry imbalance, genetics, trauma, chronic stress",
+    "risk_factors": ["Family history", "Chronic illness", "Substance abuse", "Trauma", "Social isolation", "Financial stress"],
+    "severity": "moderate",
+    "home_remedies": ["Regular exercise", "Mindfulness meditation", "Yoga and pranayama", "Social connection", "Sunlight exposure", "Journaling"],
+    "when_to_see_doctor": "If symptoms persist >2 weeks, suicidal thoughts, or inability to function. Call iCall: 08046110007",
+    "prevention": ["Regular exercise", "Strong social network", "Stress management", "Adequate sleep", "Professional counseling"]
+  }
+}
